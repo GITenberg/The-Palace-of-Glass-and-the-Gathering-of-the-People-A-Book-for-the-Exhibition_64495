@@ -1,5 +1,8 @@
 _repo: The-Palace-of-Glass-and-the-Gathering-of-the-People-A-Book-for-the-Exhibition_64495
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64495-h/images/cover.jpg
 creator:
   author:
     agent_name: Stoughton, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41836
     wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64495#The-Palace-of-Glass-and-the-Gathering-of-the-People-A-Book-for-the-Exhibition
 gutenberg_issued: '2021-02-08'
 gutenberg_type: Text
 identifiers:
